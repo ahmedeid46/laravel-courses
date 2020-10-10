@@ -1,0 +1,5 @@
+{
+    "blade.format.enable": true,
+    "wts.enablePreviewMode": true,
+    "vsicons.presets.angular": true
+}
